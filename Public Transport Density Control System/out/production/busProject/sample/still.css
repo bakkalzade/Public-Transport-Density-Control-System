@@ -1,0 +1,12 @@
+#bridge{
+    -fx-background-image: url("bridge.jpg");
+    -fx-background-size: cover;
+}
+#seaGap{
+    -fx-background-image: url("sea.png");
+    -fx-background-size: cover;
+}
+#button{
+    -fx-background-image: url("bus.jpg");
+    -fx-background-size: cover;
+}

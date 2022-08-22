@@ -1,0 +1,4 @@
+Total number of buses used : 3
+Total number of passengers : 15
+Used bus capacity : 5
+Total elapsed time : 28,250 seconds
